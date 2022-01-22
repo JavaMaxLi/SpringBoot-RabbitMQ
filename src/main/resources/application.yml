@@ -1,0 +1,10 @@
+server:
+  port: 8002
+
+spring:
+  rabbitmq:
+    host: 101.43.13.93
+    port: 5672
+    username: admin
+    password: admin123
+    virtual-host: /

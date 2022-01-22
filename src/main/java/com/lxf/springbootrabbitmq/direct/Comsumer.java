@@ -1,8 +1,5 @@
-package com.lxf.springbootrabbitmq.simple;
+package com.lxf.springbootrabbitmq.direct;
 
-import com.rabbitmq.client.*;
-
-import java.io.IOException;
 import java.util.concurrent.*;
 
 public class Comsumer {

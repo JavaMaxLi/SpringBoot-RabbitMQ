@@ -1,4 +1,4 @@
-package com.lxf.springbootrabbitmq.simple;
+package com.lxf.springbootrabbitmq.direct;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
